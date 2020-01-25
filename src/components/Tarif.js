@@ -25,7 +25,7 @@
         <img alt="" src="https://msk.tele2.ru/api/media/asset?mediaId=m220006"/>
             <img alt="" src="https://msk.tele2.ru/api/media/asset?mediaId=m220004"/>
                 <img alt="" src="https://msk.tele2.ru/api/media/asset?mediaId=m1990041"/>
-    <img alt="" src=""/>
+    
 
   
 </div>
