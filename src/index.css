@@ -11,3 +11,46 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.service-icons img {
+  display: inline;
+  width: 32px;
+  height: 32px;
+  margin-right: -7px;
+  border: 2px solid #fff;
+  border-radius: 100%;
+  position: relative;
+}
+.ssc-tariff-box {
+  width: 252px;
+  height: 430px;
+  padding: 15px 28px 18px 17px;
+  display: inline-flex;
+  flex-direction: column;
+  text-align: left;
+  position: relative;
+  border: 1px solid #d1d6db;
+  vertical-align: top;
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-size: contain;
+  overflow: hidden;
+}
+.ssc-tariff-box .price {
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 42px;
+  line-height: 44px;
+  font-weight: 600;
+  padding: 0 5px 0 0;
+  font-family: "tele2_displayserif-regular";
+}
+.ssc-tariff-box .price-wrap .value {
+  line-height: 32px;
+  font-size: 22px;
+  font-family: tele2_textsans_regular;
+  font-weight: 700;
+}
+.ssc-tariffs-container .tariff-info-item {
+  padding: 3px 0 6px;
+  line-height: 18px;
+}
